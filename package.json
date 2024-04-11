@@ -1,21 +1,13 @@
 {
-  "name": "to-do",
+  "name": "q76",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
-  "bin":{ "TO-Do":"index.js"},
-    
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": " haseeb",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^9.2.17"
-  },
-  "devDependencies": {
-    "@types/node": "^20.12.2"
-  }
+  "author": "",
+  "license": "ISC"
 }
